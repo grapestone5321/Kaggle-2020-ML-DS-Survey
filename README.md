@@ -1,6 +1,8 @@
 # Kaggle-2020-ML-DS-Survey
 Kaggle-2020-ML-DS-Survey
 
+## State of Machine Learning and Data Science 2020
+https://storage.googleapis.com/kaggle-media/surveys/Kaggle%20State%20of%20Machine%20Learning%20and%20Data%20Science%202020.pdf
 
 ## End Date (Final Submission Deadline): 
 01/06/2021 11:59 PM UTC
