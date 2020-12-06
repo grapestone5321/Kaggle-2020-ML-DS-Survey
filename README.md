@@ -4,6 +4,16 @@ Kaggle-2020-ML-DS-Survey
 ## State of Machine Learning and Data Science 2020
 https://storage.googleapis.com/kaggle-media/surveys/Kaggle%20State%20of%20Machine%20Learning%20and%20Data%20Science%202020.pdf
 
+### Overview
+For the fourth year, Kaggle surveyed its community of data enthusiasts to share trends within a quickly growing field. 
+
+### Based on responses from 20,036 Kaggle members, we’ve created this report focused on the 13% (2,675 respondents) who are currently employed as data scientists
+
+We can see a clear picture of what is common in the community but also the diverse attributes of its members. 
+
+
+
+
 ## End Date (Final Submission Deadline): 
 01/06/2021 11:59 PM UTC
 
