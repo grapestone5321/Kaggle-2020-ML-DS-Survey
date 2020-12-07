@@ -17,6 +17,10 @@ We can see a clear picture of what is common in the community but also the diver
 ## End Date (Final Submission Deadline): 
 01/06/2021 11:59 PM UTC
 
+-------
+
+
+
 ## submission
 To make a submission, complete the submission form. 
 
@@ -39,5 +43,7 @@ A great entry will be informative, thought provoking, and fresh all at the same 
 Are your sources clearly cited? 
 
 A high quality analysis should be concise and clear at each step so the rationale is easy to follow and the process is reproducible
+
+-------
 
 
