@@ -46,4 +46,6 @@ A high quality analysis should be concise and clear at each step so the rational
 
 -------
 
+## U.S.-India Relations 1947 – 2020
+https://www.cfr.org/timeline/us-india-relations
 
