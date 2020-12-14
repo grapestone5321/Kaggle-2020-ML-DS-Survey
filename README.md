@@ -144,7 +144,7 @@ https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
 -------
 
 ## pandas.Series
-
+### class pandas.Series(data=None, index=None, dtype=None, name=None, copy=False, fastpath=False)
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html
 
 
