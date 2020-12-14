@@ -99,30 +99,28 @@ The resulting object will be in descending order so that the first element is th
 
 Excludes NA values by default.
 
-### Parameters
-normalizebool, default False
+## Parameters
+### normalize: bool, default False
 If True then the object returned will contain the relative frequencies of the unique values.
 
-sortbool, default True
+### sort: bool, default True
 
 Sort by frequencies.
 
-ascendingbool, default False
+### ascending: bool, default False
 
 Sort in ascending order.
 
-binsint, optional
+### bins: int, optional
 
 Rather than count values, group them into half-open bins, a convenience for pd.cut, only works with numeric data.
 
-dropnabool, default True
+### dropna: bool, default True
 
 Don’t include counts of NaN.
 
-### Returns
+## Returns
 Series
-
-
 
 
 
