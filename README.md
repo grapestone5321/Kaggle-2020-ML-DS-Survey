@@ -127,6 +127,18 @@ Series
 -------
 
 # pandas
+pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+
+### pdf
+https://pandas.pydata.org/docs/pandas.pdf
+
+
+## Intro to data structures: Series, DataFrame
+https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
+
+- Series is a one-dimensional labeled array capable of holding any data type (integers, strings, floating point numbers, Python objects, etc.). The axis labels are collectively referred to as the index.
+
+- DataFrame is a 2-dimensional labeled data structure with columns of potentially different types. You can think of it like a spreadsheet or SQL table, or a dict of Series objects. It is generally the most commonly used pandas object.
 
 ## pandas.Series
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html
