@@ -125,3 +125,57 @@ Series
 
 
 -------
+
+# pandas
+
+## pandas.Series
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html
+
+
+### pandas.Series.value_counts
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+
+### pandas.Series.count
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.count.html#pandas.Series.count
+
+### pandas.Series.iloc
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.iloc.html#pandas.Series.iloc
+
+
+### pandas.Series.loc
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.loc.html#pandas.Series.loc
+
+
+
+## pandas.DataFrame
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+
+### pandas.DataFrame.value_counts
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.value_counts.html#pandas.DataFrame.value_counts
+
+### pandas.DataFrame.count
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.count.html#pandas.DataFrame.count
+
+
+### pandas.DataFrame.iloc
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html#pandas.DataFrame.iloc
+
+
+### pandas.DataFrame.loc
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html#pandas.DataFrame.loc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
