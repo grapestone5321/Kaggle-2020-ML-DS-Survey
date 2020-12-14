@@ -87,7 +87,7 @@ An array with elements from x where condition is True, and elements from y elsew
 -------
 
 ## pandas.Series.value_counts
-Series.value_counts(normalize=False, sort=True, ascending=False, bins=None, dropna=True)
+### Series.value_counts(normalize=False, sort=True, ascending=False, bins=None, dropna=True)
 
 ### [source]:
 https://github.com/pandas-dev/pandas/blob/v1.1.5/pandas/core/base.py#L1164-L1253
