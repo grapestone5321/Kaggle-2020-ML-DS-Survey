@@ -54,3 +54,35 @@ https://www.cfr.org/timeline/us-india-relations
 ### India in the ‘Asian century’: Thinking like a hegemon?
 https://doc-research.org/2019/07/india-in-the-asian-century-thinking-like-a-hegemon/
 
+-------
+
+
+## numpy.where
+numpy.where(condition[, x, y])
+
+Return elements chosen from x or y depending on condition.
+
+### Note
+When only condition is provided, this function is a shorthand for np.asarray(condition).nonzero(). 
+
+Using nonzero directly should be preferred, as it behaves correctly for subclasses. 
+
+The rest of this documentation covers only the case where all three arguments are provided.
+
+### Parameters
+conditionarray_like, bool
+
+Where True, yield x, otherwise yield y.
+
+x, yarray_like
+
+Values from which to choose. x, y and condition need to be broadcastable to some shape.
+
+### Returns
+outndarray
+
+An array with elements from x where condition is True, and elements from y elsewhere.
+
+
+-------
+
